@@ -1,0 +1,12 @@
+1,263170,dogs,LUCKY
+2,262124,bird,parrot
+3,263025,hamster,mimi
+4,262451,fish,memo
+5,263181,snake,anaconda
+6,262190,fish,dorry
+7,262530,tortise,bill
+8,263282,dogs,lucky
+9,262355,Rabbit,BAOBAO
+10,262680,dogs,husky
+11,262025,hedgehog,honhon
+12,263187,rabbit,tutu
